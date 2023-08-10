@@ -1,4 +1,3 @@
-<img src="https://tenor.com/en-GB/view/unit-testingnn-gif-22888563">
 <h1 align="center">Hi 👋, I'm Nurul Afsar</h1>
 <h3 align="center">An ambitious Bangladeshi Software Quality Assurance Engineer</h3>
 
