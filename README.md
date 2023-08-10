@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nurul Afsar</h1>
-<h3 align="center">An ambitious Bangladeshi Software Quality Assurance Engineer</h3>
+![GIF-image-1](https://github.com/NurulAfsar96/NurulAfsar96/assets/90999889/190c7219-6221-4614-a83a-6f056e7cb8bb)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulafsar96&label=Profile%20views&color=0e75b6&style=flat" alt="nurulafsar96" /> </p>
+<h1 align="center">Hi 👋, I'm Nurul Afsar</h1>
+<h3 align="center">An ambitious Bangladeshi Software Quality Assurance Engineer </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulafsar96&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 - 🔭 I’m currently working on [Selenium Project-Object-Model](https://github.com/NurulAfsar96/web-automation-page-object-model)
 
