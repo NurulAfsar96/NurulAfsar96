@@ -4,6 +4,8 @@
 <h3 align="center">An ambitious Bangladeshi Software Quality Assurance Engineer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulafsar96&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
+- 🎓 I received my bachelor's degree at American International University-Bangladesh (AIUB). Computer Science and Engineering (CSE) was my field of study.
+
 - 🔭 I’m currently working on [Selenium Project-Object-Model](https://github.com/NurulAfsar96/web-automation-page-object-model)
 
 - 🌱 I’m currently learning **Automation Frameworks and Mobile Automation**
