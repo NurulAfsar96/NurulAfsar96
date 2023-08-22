@@ -1,7 +1,7 @@
 ![GIF-image-1](https://github.com/NurulAfsar96/NurulAfsar96/assets/90999889/190c7219-6221-4614-a83a-6f056e7cb8bb)
 
-<h1 align="center">Hi 👋, I'm Nurul Afsar</h1>
-<h3 align="center">An ambitious Bangladeshi Software Quality Assurance Engineer </h3>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6AD30FA&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nurul+Afsar" alt="Typing SVG" /></a></h2>
+<h4 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3DFBFFFA&center=true&multiline=true&width=500&height=60&lines=An+ambitious+Bangladeshi;Software+Quality+Assurance+Engineer" alt="Typing SVG" /></a> </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulafsar96&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 - 🎓 I received my bachelor's degree at American International University-Bangladesh (AIUB). Computer Science and Engineering (CSE) was my field of study.
