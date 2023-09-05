@@ -6,7 +6,7 @@
 
 - 🎓 I received my bachelor's degree at American International University-Bangladesh (AIUB). Computer Science and Engineering (CSE) was my field of study.
 
-- 🔭 I’m currently working on [Selenium Project-Object-Model](https://github.com/NurulAfsar96/web-automation-page-object-model)
+- 🔭 I’m currently working on [Cypress Basics](https://github.com/NurulAfsar96/cypressBasic)
 
 - 🌱 I’m currently learning **Automation Frameworks and Mobile Automation**
 
