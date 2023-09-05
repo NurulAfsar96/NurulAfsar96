@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/NurulAfsar96/NurulAfsar96/assets/90999889/df0379d0-ac03-4243-bdc4-a16cd34848ae" alt="animated" /> </p>
+<p align="center"> <img src="https://github.com/NurulAfsar96/NurulAfsar96/assets/90999889/cef10ddd-d1e9-4d77-9f25-c25fd0925629" alt="animated" /> </p>
 
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFBA35FA&center=true&multiline=true&width=800&height=40&lines=Hi+%F0%9F%91%8B%2C+I+am+Nurul+Afsar" alt="Typing SVG" /></a></h2>
 <h4 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=33DFFFFA&center=true&multiline=true&width=800&height=40&lines=An+ambitious+Bangladeshi+Software+Quality+Assurance+Engineer" alt="Typing SVG" /></a> </h4>
@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurulafsar96&show_icons=true&locale=en" alt="nurulafsar96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurulafsar96&" alt="nurulafsar96" /></p>
+
+
