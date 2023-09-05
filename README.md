@@ -4,7 +4,7 @@
 <h4 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=33DFFFFA&center=true&multiline=true&width=800&height=40&lines=An+ambitious+Bangladeshi+Software+Quality+Assurance+Engineer" alt="Typing SVG" /></a> </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulafsar96&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-- 🎓 I received my bachelor's degree at American International University-Bangladesh (AIUB). Computer Science and Engineering (CSE) was my field of study.
+- 🎓 I received my bachelor's degree in **Computer Science and Engineering (CSE)** at **American International University-Bangladesh (AIUB)**.
 
 - 🔭 I’m currently working on [Cypress Basics](https://github.com/NurulAfsar96/cypressBasic)
 
